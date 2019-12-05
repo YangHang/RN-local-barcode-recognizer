@@ -20,7 +20,7 @@
     "barcode",
     "qrcodde",
     "recognizes",
-    "local",
+    "local"
   ],
   "license": "MIT",
   "private": false,
