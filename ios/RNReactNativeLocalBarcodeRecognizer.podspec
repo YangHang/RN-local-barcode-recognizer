@@ -3,7 +3,7 @@ package = JSON.parse(File.read('./package.json'))
 
 Pod::Spec.new do |s|
   s.name         = "RNReactNativeLocalBarcodeRecognizer"
-  s.version      = "1.0.1"
+  s.version      = "1.0.0"
   s.summary      = "RNReactNativeLocalBarcodeRecognizer"
   s.description  = <<-DESC
                   RNReactNativeLocalBarcodeRecognizer
