@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.author       = { "author" => "med" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "" }
-  s.source_files  = "RNReactNativeLocalBarcodeRecognizer/**/*.{h,m}"
+  s.source_files  = ios/*.{h,m}"
   s.requires_arc = true
 
 
