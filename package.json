@@ -1,0 +1,35 @@
+{
+  "name": "react-native-barcode-reg",
+  "version": "1.0.0",
+  "description": "The plugin to recognize the barcode from local image for React Native.",
+  "author": "medbanks",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YangHang/react-native-local-barcode-recognizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YangHang/react-native-local-barcode-recognizer/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "barcode",
+    "qrcodde",
+    "recognizes",
+    "local",
+  ],
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "react": ">=16.3.1",
+    "react-native": ">=0.55.4"
+  },
+  "homepage": "https://github.com/YangHang/react-native-local-barcode-recognizer#readme",
+  "directories": {
+    "example": "examples"
+  }
+}
