@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target    = "11.0"
   s.source       = { :git => "https://github.com/YangHang/RN-local-barcode-recognizer" }
   s.requires_arc = true
-  s.source_files  = "ios/*.{h,m}"
+  s.source_files = "**/*.{h,m}"
   s.dependency "React"
 
 end
