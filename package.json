@@ -1,6 +1,6 @@
 {
   "name": "react-native-barcode-reg",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "The plugin to recognize the barcode from local image for React Native.",
   "author": "medbanks",
   "contributors": [],
