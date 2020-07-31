@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNReactNativeLocalBarcodeRecognizer
                    DESC
-  s.homepage     = "https://medbanks.cn/"
+  s.homepage     = "http://google.com"
   s.license      = "MIT"
   s.author       = { "author" => "med" }
   s.platform                  = :ios, "9.0"
